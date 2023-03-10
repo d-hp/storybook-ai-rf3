@@ -40,7 +40,10 @@
 
 <br />
   <div align="center">
+    <img src="./public/readme_1.jpg" alt="Logo" width="fit" height="auto">
     <img src="./public/readme_2.jpg" alt="Logo" width="fit" height="auto">
+    <img src="./public/readme_3.jpg" alt="Logo" width="fit" height="auto">
+    <img src="./public/readme_4.jpg" alt="Logo" width="fit" height="auto">
   </div>
 <br />
 
